@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mouseanna5165@gmail.com
+- 📫 How to reach me : angelanna5165@gmail.com
 
 <!---
 AnnaOpanasenko/AnnaOpanasenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
