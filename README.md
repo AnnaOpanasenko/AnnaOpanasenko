@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GannaOpanasenko
-- 👀 I’m interested in Front End
+- 👀 I’m interested in Front End & Web Design
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : gannaopanasenko93@gmail.com
